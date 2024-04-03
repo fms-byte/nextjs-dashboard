@@ -7,7 +7,7 @@ export default function AcmeLogo() {
       className={`${lusitana.className} flex flex-row items-center leading-none text-white`}
     >
       <GlobeAsiaAustraliaIcon className="h-12 w-12" style={{ fill: "green" }}  />
-      <p className="text-[44px]">EcoSync</p>
+      <p className="text-[44px]">Acme</p>
     </div>
   );
 }
